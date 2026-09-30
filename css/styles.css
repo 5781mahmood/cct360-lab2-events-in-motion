@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 40px;
+  text-align: center;
+}
+
+#booth {
+  background-color: #ffffff;
+  width: 450px;
+  margin: 0 auto;
+  padding: 30px;
+  border: 2px solid #333333;
+}
+
+#moodTitle {
+  font-size: 28px;
+  color: #222222;
+  margin-bottom: 10px;
+}
+
+#statusMessage {
+  font-size: 18px;
+  color: #444444;
+  margin-bottom: 25px;
+}
+
+#buttons {
+  margin-bottom: 20px;
+}
+
+button {
+  font-size: 16px;
+  padding: 10px 16px;
+  margin: 5px;
+  cursor: pointer;
+  border: 1px solid #333333;
+  background-color: #eeeeee;
+}
+
+#hint {
+  font-size: 14px;
+  color: #666666;
+  margin-top: 15px;
+}
+
+#saveBtn {
+  margin-top: 10px;
+  background-color: #dddddd;
+}
